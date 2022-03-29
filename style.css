@@ -1,0 +1,30 @@
+#header {
+	margin: auto;
+	width: 100%;
+	border:1px solid black;
+}
+
+#header-title {
+	text-align: center;
+}
+
+.left-column-item {
+	display: block;
+}
+
+#left-column {
+	display: inline-block;
+	width: 25%;
+	height: 100%;
+	vertical-align: top;
+	border: 1px solid black;
+	padding: 10px;
+}
+
+#center-column {
+	display: inline-block;
+	width: 50%;
+	vertical-align: top;
+	border: 1px solid black;
+	padding: 10px;
+}
